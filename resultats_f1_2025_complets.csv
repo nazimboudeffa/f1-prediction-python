@@ -1,0 +1,141 @@
+Round,Race,Date,Driver,Constructor,Grid,Position,Status,Points
+1,Australian Grand Prix,2025-03-16,Norris,McLaren,1,1,Finished,25.0
+1,Australian Grand Prix,2025-03-16,Verstappen,Red Bull,3,2,Finished,18.0
+1,Australian Grand Prix,2025-03-16,Russell,Mercedes,4,3,Finished,15.0
+1,Australian Grand Prix,2025-03-16,Antonelli,Mercedes,16,4,Finished,12.0
+1,Australian Grand Prix,2025-03-16,Albon,Williams,6,5,Finished,10.0
+1,Australian Grand Prix,2025-03-16,Stroll,Aston Martin,13,6,Finished,8.0
+1,Australian Grand Prix,2025-03-16,Hülkenberg,Sauber,17,7,Finished,6.0
+1,Australian Grand Prix,2025-03-16,Leclerc,Ferrari,7,8,Finished,4.0
+1,Australian Grand Prix,2025-03-16,Piastri,McLaren,2,9,Finished,2.0
+1,Australian Grand Prix,2025-03-16,Hamilton,Ferrari,8,10,Finished,1.0
+1,Australian Grand Prix,2025-03-16,Gasly,Alpine F1 Team,9,11,Finished,0.0
+1,Australian Grand Prix,2025-03-16,Tsunoda,RB F1 Team,5,12,Finished,0.0
+1,Australian Grand Prix,2025-03-16,Ocon,Haas F1 Team,19,13,Finished,0.0
+1,Australian Grand Prix,2025-03-16,Bearman,Haas F1 Team,20,14,Finished,0.0
+1,Australian Grand Prix,2025-03-16,Lawson,Red Bull,18,15,Retired,0.0
+1,Australian Grand Prix,2025-03-16,Bortoleto,Sauber,15,16,Retired,0.0
+1,Australian Grand Prix,2025-03-16,Alonso,Aston Martin,12,17,Retired,0.0
+1,Australian Grand Prix,2025-03-16,Sainz,Williams,10,18,Retired,0.0
+1,Australian Grand Prix,2025-03-16,Doohan,Alpine F1 Team,14,19,Retired,0.0
+1,Australian Grand Prix,2025-03-16,Hadjar,RB F1 Team,11,20,Retired,0.0
+2,Chinese Grand Prix,2025-03-23,Piastri,McLaren,1,1,Finished,25.0
+2,Chinese Grand Prix,2025-03-23,Norris,McLaren,3,2,Finished,18.0
+2,Chinese Grand Prix,2025-03-23,Russell,Mercedes,2,3,Finished,15.0
+2,Chinese Grand Prix,2025-03-23,Verstappen,Red Bull,4,4,Finished,12.0
+2,Chinese Grand Prix,2025-03-23,Ocon,Haas F1 Team,11,5,Finished,10.0
+2,Chinese Grand Prix,2025-03-23,Antonelli,Mercedes,8,6,Finished,8.0
+2,Chinese Grand Prix,2025-03-23,Albon,Williams,10,7,Finished,6.0
+2,Chinese Grand Prix,2025-03-23,Bearman,Haas F1 Team,17,8,Finished,4.0
+2,Chinese Grand Prix,2025-03-23,Stroll,Aston Martin,14,9,Finished,2.0
+2,Chinese Grand Prix,2025-03-23,Sainz,Williams,15,10,Finished,1.0
+2,Chinese Grand Prix,2025-03-23,Hadjar,RB F1 Team,7,11,Finished,0.0
+2,Chinese Grand Prix,2025-03-23,Lawson,Red Bull,20,12,Finished,0.0
+2,Chinese Grand Prix,2025-03-23,Doohan,Alpine F1 Team,18,13,Finished,0.0
+2,Chinese Grand Prix,2025-03-23,Bortoleto,Sauber,19,14,Lapped,0.0
+2,Chinese Grand Prix,2025-03-23,Hülkenberg,Sauber,12,15,Lapped,0.0
+2,Chinese Grand Prix,2025-03-23,Tsunoda,RB F1 Team,9,16,Lapped,0.0
+2,Chinese Grand Prix,2025-03-23,Alonso,Aston Martin,13,17,Retired,0.0
+2,Chinese Grand Prix,2025-03-23,Leclerc,Ferrari,6,18,Disqualified,0.0
+2,Chinese Grand Prix,2025-03-23,Hamilton,Ferrari,5,19,Disqualified,0.0
+2,Chinese Grand Prix,2025-03-23,Gasly,Alpine F1 Team,16,20,Disqualified,0.0
+3,Japanese Grand Prix,2025-04-06,Verstappen,Red Bull,1,1,Finished,25.0
+3,Japanese Grand Prix,2025-04-06,Norris,McLaren,2,2,Finished,18.0
+3,Japanese Grand Prix,2025-04-06,Piastri,McLaren,3,3,Finished,15.0
+3,Japanese Grand Prix,2025-04-06,Leclerc,Ferrari,4,4,Finished,12.0
+3,Japanese Grand Prix,2025-04-06,Russell,Mercedes,5,5,Finished,10.0
+3,Japanese Grand Prix,2025-04-06,Antonelli,Mercedes,6,6,Finished,8.0
+3,Japanese Grand Prix,2025-04-06,Hamilton,Ferrari,8,7,Finished,6.0
+3,Japanese Grand Prix,2025-04-06,Hadjar,RB F1 Team,7,8,Finished,4.0
+3,Japanese Grand Prix,2025-04-06,Albon,Williams,9,9,Finished,2.0
+3,Japanese Grand Prix,2025-04-06,Bearman,Haas F1 Team,10,10,Finished,1.0
+3,Japanese Grand Prix,2025-04-06,Alonso,Aston Martin,12,11,Finished,0.0
+3,Japanese Grand Prix,2025-04-06,Tsunoda,Red Bull,14,12,Finished,0.0
+3,Japanese Grand Prix,2025-04-06,Gasly,Alpine F1 Team,11,13,Finished,0.0
+3,Japanese Grand Prix,2025-04-06,Sainz,Williams,15,14,Finished,0.0
+3,Japanese Grand Prix,2025-04-06,Doohan,Alpine F1 Team,19,15,Finished,0.0
+3,Japanese Grand Prix,2025-04-06,Hülkenberg,Sauber,16,16,Finished,0.0
+3,Japanese Grand Prix,2025-04-06,Lawson,RB F1 Team,13,17,Finished,0.0
+3,Japanese Grand Prix,2025-04-06,Ocon,Haas F1 Team,18,18,Finished,0.0
+3,Japanese Grand Prix,2025-04-06,Bortoleto,Sauber,17,19,Finished,0.0
+3,Japanese Grand Prix,2025-04-06,Stroll,Aston Martin,20,20,Lapped,0.0
+4,Bahrain Grand Prix,2025-04-13,Piastri,McLaren,1,1,Finished,25.0
+4,Bahrain Grand Prix,2025-04-13,Russell,Mercedes,3,2,Finished,18.0
+4,Bahrain Grand Prix,2025-04-13,Norris,McLaren,6,3,Finished,15.0
+4,Bahrain Grand Prix,2025-04-13,Leclerc,Ferrari,2,4,Finished,12.0
+4,Bahrain Grand Prix,2025-04-13,Hamilton,Ferrari,9,5,Finished,10.0
+4,Bahrain Grand Prix,2025-04-13,Verstappen,Red Bull,7,6,Finished,8.0
+4,Bahrain Grand Prix,2025-04-13,Gasly,Alpine F1 Team,4,7,Finished,6.0
+4,Bahrain Grand Prix,2025-04-13,Ocon,Haas F1 Team,14,8,Finished,4.0
+4,Bahrain Grand Prix,2025-04-13,Tsunoda,Red Bull,10,9,Finished,2.0
+4,Bahrain Grand Prix,2025-04-13,Bearman,Haas F1 Team,20,10,Finished,1.0
+4,Bahrain Grand Prix,2025-04-13,Antonelli,Mercedes,5,11,Finished,0.0
+4,Bahrain Grand Prix,2025-04-13,Albon,Williams,15,12,Finished,0.0
+4,Bahrain Grand Prix,2025-04-13,Hadjar,RB F1 Team,12,13,Finished,0.0
+4,Bahrain Grand Prix,2025-04-13,Doohan,Alpine F1 Team,11,14,Finished,0.0
+4,Bahrain Grand Prix,2025-04-13,Alonso,Aston Martin,13,15,Finished,0.0
+4,Bahrain Grand Prix,2025-04-13,Lawson,RB F1 Team,17,16,Finished,0.0
+4,Bahrain Grand Prix,2025-04-13,Stroll,Aston Martin,19,17,Finished,0.0
+4,Bahrain Grand Prix,2025-04-13,Bortoleto,Sauber,18,18,Finished,0.0
+4,Bahrain Grand Prix,2025-04-13,Sainz,Williams,8,19,Retired,0.0
+4,Bahrain Grand Prix,2025-04-13,Hülkenberg,Sauber,16,20,Disqualified,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,Piastri,McLaren,2,1,Finished,25.0
+5,Saudi Arabian Grand Prix,2025-04-20,Verstappen,Red Bull,1,2,Finished,18.0
+5,Saudi Arabian Grand Prix,2025-04-20,Leclerc,Ferrari,4,3,Finished,15.0
+5,Saudi Arabian Grand Prix,2025-04-20,Norris,McLaren,10,4,Finished,12.0
+5,Saudi Arabian Grand Prix,2025-04-20,Russell,Mercedes,3,5,Finished,10.0
+5,Saudi Arabian Grand Prix,2025-04-20,Antonelli,Mercedes,5,6,Finished,8.0
+5,Saudi Arabian Grand Prix,2025-04-20,Hamilton,Ferrari,7,7,Finished,6.0
+5,Saudi Arabian Grand Prix,2025-04-20,Sainz,Williams,6,8,Finished,4.0
+5,Saudi Arabian Grand Prix,2025-04-20,Albon,Williams,11,9,Finished,2.0
+5,Saudi Arabian Grand Prix,2025-04-20,Hadjar,RB F1 Team,14,10,Finished,1.0
+5,Saudi Arabian Grand Prix,2025-04-20,Alonso,Aston Martin,13,11,Finished,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,Lawson,RB F1 Team,12,12,Finished,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,Bearman,Haas F1 Team,15,13,Finished,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,Ocon,Haas F1 Team,19,14,Finished,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,Hülkenberg,Sauber,18,15,Lapped,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,Stroll,Aston Martin,16,16,Lapped,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,Doohan,Alpine F1 Team,17,17,Lapped,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,Bortoleto,Sauber,20,18,Lapped,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,Tsunoda,Red Bull,8,19,Retired,0.0
+5,Saudi Arabian Grand Prix,2025-04-20,Gasly,Alpine F1 Team,9,20,Retired,0.0
+6,Miami Grand Prix,2025-05-04,Piastri,McLaren,4,1,Finished,25.0
+6,Miami Grand Prix,2025-05-04,Norris,McLaren,2,2,Finished,18.0
+6,Miami Grand Prix,2025-05-04,Russell,Mercedes,5,3,Finished,15.0
+6,Miami Grand Prix,2025-05-04,Verstappen,Red Bull,1,4,Finished,12.0
+6,Miami Grand Prix,2025-05-04,Albon,Williams,7,5,Finished,10.0
+6,Miami Grand Prix,2025-05-04,Antonelli,Mercedes,3,6,Finished,8.0
+6,Miami Grand Prix,2025-05-04,Leclerc,Ferrari,8,7,Finished,6.0
+6,Miami Grand Prix,2025-05-04,Hamilton,Ferrari,12,8,Finished,4.0
+6,Miami Grand Prix,2025-05-04,Sainz,Williams,6,9,Finished,2.0
+6,Miami Grand Prix,2025-05-04,Tsunoda,Red Bull,10,10,Finished,1.0
+6,Miami Grand Prix,2025-05-04,Hadjar,RB F1 Team,11,11,Finished,0.0
+6,Miami Grand Prix,2025-05-04,Ocon,Haas F1 Team,9,12,Finished,0.0
+6,Miami Grand Prix,2025-05-04,Gasly,Alpine F1 Team,20,13,Finished,0.0
+6,Miami Grand Prix,2025-05-04,Hülkenberg,Sauber,16,14,Lapped,0.0
+6,Miami Grand Prix,2025-05-04,Alonso,Aston Martin,17,15,Lapped,0.0
+6,Miami Grand Prix,2025-05-04,Stroll,Aston Martin,18,16,Lapped,0.0
+6,Miami Grand Prix,2025-05-04,Lawson,RB F1 Team,15,17,Retired,0.0
+6,Miami Grand Prix,2025-05-04,Bortoleto,Sauber,13,18,Retired,0.0
+6,Miami Grand Prix,2025-05-04,Bearman,Haas F1 Team,19,19,Retired,0.0
+6,Miami Grand Prix,2025-05-04,Doohan,Alpine F1 Team,14,20,Retired,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,Verstappen,Red Bull,2,1,Finished,25.0
+7,Emilia Romagna Grand Prix,2025-05-18,Norris,McLaren,4,2,Finished,18.0
+7,Emilia Romagna Grand Prix,2025-05-18,Piastri,McLaren,1,3,Finished,15.0
+7,Emilia Romagna Grand Prix,2025-05-18,Hamilton,Ferrari,12,4,Finished,12.0
+7,Emilia Romagna Grand Prix,2025-05-18,Albon,Williams,7,5,Finished,10.0
+7,Emilia Romagna Grand Prix,2025-05-18,Leclerc,Ferrari,11,6,Finished,8.0
+7,Emilia Romagna Grand Prix,2025-05-18,Russell,Mercedes,3,7,Finished,6.0
+7,Emilia Romagna Grand Prix,2025-05-18,Sainz,Williams,6,8,Finished,4.0
+7,Emilia Romagna Grand Prix,2025-05-18,Hadjar,RB F1 Team,9,9,Finished,2.0
+7,Emilia Romagna Grand Prix,2025-05-18,Tsunoda,Red Bull,20,10,Finished,1.0
+7,Emilia Romagna Grand Prix,2025-05-18,Alonso,Aston Martin,5,11,Finished,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,Hülkenberg,Sauber,17,12,Finished,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,Gasly,Alpine F1 Team,10,13,Finished,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,Lawson,RB F1 Team,15,14,Finished,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,Stroll,Aston Martin,8,15,Finished,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,Colapinto,Alpine F1 Team,16,16,Finished,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,Bearman,Haas F1 Team,19,17,Finished,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,Bortoleto,Sauber,14,18,Finished,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,Antonelli,Mercedes,13,19,Retired,0.0
+7,Emilia Romagna Grand Prix,2025-05-18,Ocon,Haas F1 Team,18,20,Retired,0.0
